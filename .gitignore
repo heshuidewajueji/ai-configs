@@ -1,0 +1,35 @@
+# Large binary files
+*.pdf
+*.zip
+*.tar.gz
+*.tar
+*.7z
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+
+# Claude/Hermes artifacts
+.hermes/
+.claude/
+*.log
